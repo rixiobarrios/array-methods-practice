@@ -12,8 +12,9 @@
 
 1. Fork and clone this repository.
 2. Change into the new directory.
-3. Fulfill the listed requirements, and commit frequently!
-4. Starter code is available in lib/challenge.js. You are required to turn in your submission by making a pull request on the original repository.
+3. Fulfill the listed requirements, and commit after solving each prompt!
+4. Starter code is available in lib/challenge.js.
+5. You are required to turn in your submission by making a pull request on the original repository.
 
 Starter code is available in [`lib/challenge.js`](lib/challenge.js). The JS file is already linked to your HTML. You are required to turn in your submission by making a pull request on the original repository.
 
@@ -22,6 +23,12 @@ Unless otherwise specified on the calendar or by an instructor, homework is due 
 ## Requirements
 
 A series of prompts are located in the `challenge.js` file. Complete each prompt and **commit after each one!**
+
+## Tips
+
+-   Make sure you are committing your code after completing each prompt.
+-   Open the index.html file in Google Chrome to view your console.log() messages.
+-   Focus on completing one prompt at a time, and comment out your code and console.log()s for other prompts.
 
 ## Plagiarism
 
